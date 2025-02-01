@@ -14,7 +14,6 @@ class Index implements ActionInterface
     public function execute()
     {
         $result = $this->pageFactory->create();
-        $result->setHeader("Name","Devansh Rathod");
         return $result;
     }
 }
