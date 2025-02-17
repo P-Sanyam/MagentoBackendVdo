@@ -20,7 +20,11 @@ class Index implements ActionInterface
     public function execute(): ResultInterface
     {
         $result = $this->resultFactory->create();
-        $result->setContents('Example');
+        $result->setHeader('Content-Type', 'text/xml')->setContents('
+        <root>
+            <name>Devansh Rathod</name>
+            <job>Software Developer</job>
+        </root>');
         return $result;
     }
 }
