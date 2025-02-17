@@ -14,7 +14,7 @@ class Page implements ActionInterface
     public function execute()
     {
         $page =  $this->pageFactory->create();
-        $page->getConfig()->getTitle()->set('Example');
+        $page->getConfig()->getTitle()->set('This is a custom page');
         return $page;
     }
 }
