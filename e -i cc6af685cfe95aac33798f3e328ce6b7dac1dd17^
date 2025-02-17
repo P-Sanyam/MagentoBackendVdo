@@ -1,0 +1,29 @@
+[33mcommit cc6af685cfe95aac33798f3e328ce6b7dac1dd17[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Sanyam Pandey <sanyam.pandey@hbwsl.com>
+Date:   Tue Feb 11 17:53:56 2025 +0530
+
+    Used Construct Property Promotion
+
+[33mcommit ce4689d545a68f777d13f729c33e129df8e2324c[m
+Author: Sanyam Pandey <sanyam.pandey@hbwsl.com>
+Date:   Tue Feb 11 15:37:53 2025 +0530
+
+    Use of Object Manager by using new keyword
+
+[33mcommit 952090cd4c1fa75b7f151be184ba4c7091975227[m
+Author: Sanyam Pandey <sanyam.pandey@hbwsl.com>
+Date:   Tue Feb 11 15:23:32 2025 +0530
+
+    Created Controller and Frontend ensuring best practices with MVC design pattern
+
+[33mcommit ee25b826f045499279072cca7e212b1fdf832f58[m
+Author: Sanyam Pandey <sanyam.pandey@hbwsl.com>
+Date:   Tue Feb 11 14:30:00 2025 +0530
+
+    Created Registration.php and module.xml to register my custom module
+
+[33mcommit 859a7230e28741a9cfb5b819a11d7e5417e76613[m
+Author: Sanyam Pandey <sanyam.pandey@hbwsl.com>
+Date:   Tue Feb 11 14:00:00 2025 +0530
+
+    Raw Magento
